@@ -21,7 +21,7 @@ Eu sou o Patrick Gonçalves, sou um programador Front End, atualmente estou apre
  <a href="https://www.instagram.com/pgprogrammer_">
  <img align="left" alt="icone-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
- <a href="https://www.linkedin.com/in/meuusuário/">
+ <a href="https://www.linkedin.com/in/patrick-carvalho-435a0631a">
  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  </p>
