@@ -10,7 +10,7 @@ Eu sou o Patrick Gonçalves, sou um programador Front End, atualmente estou apre
  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <br>
 
- - :speech_balloon: Pergunte-me sobre qualquer coisa (https://www.linkedin.com/in/patrick-carvalho-pg/)
+ - :speech_balloon: Pergunte-me sobre qualquer coisa (www.linkedin.com/in/patrick-gonçalves-de-carvalho)
  - :mailbox: Como chegar até mim: [@ pgprogrammer_](https://www.instagram.com/pgprogrammer_)
 
 <br />
@@ -21,7 +21,7 @@ Eu sou o Patrick Gonçalves, sou um programador Front End, atualmente estou apre
  <a href="https://www.instagram.com/pgprogrammer_">
  <img align="left" alt="icone-instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
  </a>
- <a href="https://www.linkedin.com/in/patrick-carvalho-pg/">
+ <a href="www.linkedin.com/in/patrick-gonçalves-de-carvalho">
  <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  </p>
